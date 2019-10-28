@@ -1,3 +1,3 @@
 # formulario-vuejs-estudo
 
-Utilizando um arquivo html, fiz a importação do script do VueJS e do Bootstrap para a criação de um formulario simples, com algumas validações.
+Utilizando o npm install -g @vue/cli, instalei o VueJS, e usei o link do Bootstrap para a criação de um formulario simples, com algumas validações.
